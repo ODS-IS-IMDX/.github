@@ -27,7 +27,6 @@
 | ap-infdx-repo-adjustcomplete | 設備データ取込タスク登録/更新用リポジトリ |
 | ap-infdx-repo-adjuststatuscreate | データ整備ツールステータス作成用リポジトリ |
 | ap-infdx-repo-adjuststatusupdate | データ整備ツールステータス変更用リポジトリ |
-| 3d-viewer | 3Dビューア用リポジトリ |
 | ap-infdx-repo-buried | 埋設物情報APIコンテナ用リポジトリ |
 | ap-infdx-repo-buried-batch | 埋設物情報取得バッチコンテナ用リポジトリ |
 | ap-infdx-repo-filestatus | ファイル作成状況確認APIコンテナ用リポジトリ |
@@ -37,4 +36,6 @@
 | ap-infdx-repo-accesshistory | アクセス履歴管理コンテナ用リポジトリ |
 | ap-infdx-repo-3dlib | 3D空間ID共通ライブラリコンテナ用リポジトリ |
 | ap-infdx-repo-api-basic | 基本機能リポジトリ |
+| data-adjust-tool | データ整備ツール用リポジトリ |
+| 3d-viewer | 3Dビューア用リポジトリ |
 
