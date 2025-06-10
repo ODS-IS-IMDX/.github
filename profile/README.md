@@ -6,6 +6,8 @@
 
 関連リポジトリは、[こちら](https://github.com/orgs/ODS-IS-IMDX/repositories)から。
 
+他のウラノス・エコシステム関連のOrganizationは[こちら](https://github.com/Ouranos-Ecosystem-Dataspaces)から。
+
 # 問い合わせに関して
 1. 本リポジトリは配布を目的としており、IssueやPull Requestを受け付けておりません。
 
