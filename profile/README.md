@@ -23,7 +23,7 @@
 システム構成の概要資料と機能一覧を示します。
 
 ## システム構成図
-![システム構成図](.github/images/system.png)
+![](https://github.com/ODS-IS-IMDX/.github/blob/main/images/system.png)
 
 ## 機能一覧
 | 機能名 | 機能概要 |
