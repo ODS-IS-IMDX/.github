@@ -48,6 +48,8 @@ ODSの詳細な情報は[Open Data Spaces Organization](https://github.com/open-
 | 2025年度| repo_infradx_DDL | DDL用リポジトリ |
 | 2025年度| repo_infradx_ap_GFV_0010 | ベクタデータ配信（可視化）用リポジトリ | 
 | 2025年度| repo_infradx_ap_provider_shp_normalizer | データ変換ツール用リポジトリ |
+| 2025年度|  |  |
+| 2025年度|  | |
 | 2024年度| ap-infdx-repo-timeoutreload | タイムアウトデータ再読み込みバッチ用リポジトリ |
 | 2024年度| ap-infdx-repo-adjustcomplete | 設備データ取込タスク登録/更新用リポジトリ |
 | 2024年度| ap-infdx-repo-adjuststatuscreate | データ整備ツールステータス作成用リポジトリ |
@@ -70,12 +72,12 @@ ODSの詳細な情報は[Open Data Spaces Organization](https://github.com/open-
 ## ツール一覧
 |　工程名　| ツール名 | ツール概要 |
 |--------|----------|----------|
-| 取得 | INF様ツール | INF様ツール |
-| 取得 | INF様ツール | INF様ツール |
+| 取得 |  |  |
+| 取得 |  |  |
 | 変換 | データ変換ツール | シェープファイルのジオメトリ検証・修正、座標系変換（EPSG）、カラムマッピングを行う。|
 | 標準化 | データ標準化機能のことを指すため、機能一覧を参照してください。 | データ標準化機能のことを指すため、機能一覧を参照してください。| 
 
-## データ整備ツールの利用イメージ
+## データ整備プロセス
 ![](https://github.com/ODS-IS-IMDX/.github/blob/main/images/data-adjust.png)
 （本画像著作権者：国立研究開発法人 新エネルギー・産業技術総合開発機構、NTTインフラネット株式会社、株式会社NTTデータ）
 
