@@ -48,8 +48,8 @@ ODSの詳細な情報は[Open Data Spaces Organization](https://github.com/open-
 | 2025年度| repo_infradx_DDL | DDL用リポジトリ |
 | 2025年度| repo_infradx_ap_GFV_0010 | ベクタデータ配信（可視化）用リポジトリ | 
 | 2025年度| repo_infradx_ap_provider_shp_normalizer | データ変換ツール用リポジトリ |
-| 2025年度|  |  |
-| 2025年度|  | |
+| 2025年度| digitize-assist-system | 図面デジタイズ支援システム用リポジトリ |
+| 2025年度| digitize-vision-sdk | 図面デジタイズ支援AIモデル開発SDK用リポジトリ |
 | 2024年度| ap-infdx-repo-timeoutreload | タイムアウトデータ再読み込みバッチ用リポジトリ |
 | 2024年度| ap-infdx-repo-adjustcomplete | 設備データ取込タスク登録/更新用リポジトリ |
 | 2024年度| ap-infdx-repo-adjuststatuscreate | データ整備ツールステータス作成用リポジトリ |
